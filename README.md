@@ -1,4 +1,4 @@
-# Netflix_clone
+## Netflix_clone
 A basic Frontend Landing page of Popular Netflix website.
 I have just used basic concepts of HTML, CSS and Javascript for creating this website.
 This code will help you to enhance your knowledge of Frontend techs.
